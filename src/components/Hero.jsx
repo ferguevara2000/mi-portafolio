@@ -19,7 +19,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section id="inicio" className="min-h-screen flex items-center justify-center px-4 pt-16">
+    <section id="inicio" className="min-h-screen flex items-center justify-center px-4 pt-20">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8 animate-fade-in">
           <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 p-1">
